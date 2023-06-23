@@ -107,3 +107,5 @@ ll.insert(2, 55);
 ll.remove(5);
 // ll.printList();
 ll.reverse()
+
+export default LinkedList;
